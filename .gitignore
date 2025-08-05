@@ -1,1 +1,16 @@
+# macOS
 .DS_Store
+
+# Редакторы
+.vscode/
+.idea/
+
+*.log
+*.swp
+*.tmp
+*~
+
+__pycache__/
+*.pyc
+
+.env
